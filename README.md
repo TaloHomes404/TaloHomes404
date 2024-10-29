@@ -10,6 +10,11 @@
 ## 📱 Mobile 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%2300C7B7.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![CameraX](https://img.shields.io/badge/CameraX-%23FF4081.svg?style=for-the-badge&logo=android&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-%23007F8F.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 
 ## 🛠💻 Tools
@@ -21,9 +26,15 @@
 
 ## 🧪📝✅ Testing
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 </div>
 
-
+## 📚🎓🌱 I’m currently learning ...
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23674A37.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML%20Kit-%230075C5.svg?style=for-the-badge&logo=google&logoColor=white)
 
 <!--
 **TaloHomes404/TaloHomes404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
