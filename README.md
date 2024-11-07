@@ -35,6 +35,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23674A37.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![ML Kit](https://img.shields.io/badge/ML%20Kit-%230075C5.svg?style=for-the-badge&logo=google&logoColor=white)
+![Room](https://img.shields.io/badge/Room-%23EA6C00.svg?style=for-the-badge&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-%23076CC6.svg?style=for-the-badge&logo=android&logoColor=white)
 
 <!--
 **TaloHomes404/TaloHomes404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
