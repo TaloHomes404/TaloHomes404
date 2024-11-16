@@ -22,18 +22,18 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 
 ## 🧪📝✅ Testing
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Espresso](https://img.shields.io/badge/Espresso-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 </div>
 
 ## 📚🎓🌱 I’m currently learning ...
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%23674A37.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![ML Kit](https://img.shields.io/badge/ML%20Kit-%230075C5.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-%23EA6C00.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-%23076CC6.svg?style=for-the-badge&logo=android&logoColor=white)
