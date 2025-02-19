@@ -33,6 +33,7 @@
 
 ## 📚🎓🌱 I’m currently learning ...
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-.NET%20Framework%20%7C%20.NET%20Core-blueviolet?logo=windows)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![ML Kit](https://img.shields.io/badge/ML%20Kit-%230075C5.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-%23EA6C00.svg?style=for-the-badge&logo=android&logoColor=white)
